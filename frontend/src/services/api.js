@@ -1,4 +1,4 @@
-const API_URL = "https://ai-powered-resume-analyzer-web-app.onrender.com/";
+const API_URL = "https://ai-powered-resume-analyzer-web-app.onrender.com";
 
 export async function analyzeResume({
   role,
